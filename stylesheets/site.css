@@ -1,0 +1,19 @@
+body {
+  text-align: center; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Ma Shan Zheng', cursive; }
+
+a {
+  color: rgba(0, 0, 0, 0.7); }
+  a:focus, a:hover {
+    color: rgba(0, 0, 0, 0.6); }
+
+.owl-carousel {
+  margin: 0 auto;
+  max-width: 1440px; }
+
+.owl-carousel img {
+  display: block;
+  height: auto;
+  width: 100%; }
