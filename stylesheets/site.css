@@ -10,8 +10,7 @@ a {
     color: rgba(0, 0, 0, 0.6); }
 
 .owl-carousel {
-  margin: 0 auto;
-  max-width: 1440px; }
+  margin: 0 auto; }
 
 .owl-carousel img {
   display: block;
