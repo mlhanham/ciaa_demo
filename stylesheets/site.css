@@ -9,6 +9,9 @@ a {
   a:focus, a:hover {
     color: rgba(0, 0, 0, 0.6); }
 
+.fit-title {
+  font-size: 6vw; }
+
 .owl-carousel {
   margin: 0 auto; }
 
