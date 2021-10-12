@@ -1,5 +1,7 @@
 jQuery(document).ready(function ($) {
 
+  bulmaCollapsible.attach();
+
   // Check for click events on the navbar burger icon
   $(".navbar-burger").click(function() {
 
